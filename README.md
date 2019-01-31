@@ -1,7 +1,7 @@
 # About
 
 This is an exercis. Walk along with the Brad Traversy's [Redux crash course](https://www.youtube.com/watch?v=93p3LxR9xfM)
-It covers basics of Redux using [JSONPlaceholder API](https://jsonplaceholder.typicode.com/).
+It covers basics of [Redux](https://redux.js.org/) using [JSONPlaceholder API](https://jsonplaceholder.typicode.com/).
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
